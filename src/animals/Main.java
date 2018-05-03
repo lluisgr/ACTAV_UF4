@@ -12,7 +12,7 @@ public class Main {
         System.out.println("-------------");
         
         Animal g = new Gato();
-        g.setNombre("MICIFUS");
+        g.setNombre("MICHI");
         g.comer();
         g.caminar();
         g.sonido();
