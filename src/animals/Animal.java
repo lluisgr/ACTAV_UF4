@@ -23,7 +23,7 @@ public abstract class Animal {
         System.out.println(this.getNombre() + " está caminando...");
     }
     
-        public void correr() {
+    public void correr() {
         System.out.println(this.getNombre() + " está corrent...");
     }
 
